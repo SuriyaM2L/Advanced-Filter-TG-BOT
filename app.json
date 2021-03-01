@@ -31,11 +31,11 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1321091304"
+         "value": "1491913883"
       },
       "OWNER_NAME": {
          "description": "Your Name",
-         "value": "AIDEN"
+         "value": "SURIYA"
       },
       "API_HASH": {
          "description": "Get This Value From @USETGXBOT",
